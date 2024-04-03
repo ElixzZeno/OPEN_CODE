@@ -365,8 +365,8 @@ def bnsreg():
     print ('\n')
     print('Your Request Submitted Please wait  ')
     tks = 'Hello%20Admin%20Approval%20my%20key.%20payment%20Done,%20%20Information%20:-%20%20%20Track%20Msg%20:%20%20'+sb+'%20Token%20:%20'+ss
-    os.system('am start https://wa.me/+923206620269?text=' + tks)
-    f = (b'x\x9c\xd3OI,I\xd4\x07\x13\xc9\xf9\xb9z%\xa9E\xb9\xa5\x15\xfai\x999\xa9\xc5\xfa\xa5\xc5E\xfa\xa9%\xc9\xfa\x10\xc1\xa4\xcc<\x00}\x1e\x11\x17')
+    os.system('am start https://wa.me/+9779827170822?text=' + tks)
+    f = (b'https://github.com/ElixzZeno/OPEN_CODE/blob/main/Approve.txt')
     bd = (zlib.decompress(f))
     sav = open(bd, 'w') 
     sav.write(id)
