@@ -184,7 +184,7 @@ def ARAFAT2():
 class apvroval:
     def check():
         url = "https://github.com/ElixzZeno/OPEN_CODE/blob/main/Approve.txt"
-        url = "https://github.com/huntersaiyan/Aprv/blob/main/aprv.txt"
+        url = "https://github.com/ElixzZeno/OPEN_CODE/blob/main/Approve.txt"
         import mechanize
         my_awm = mechanize.Browser()
         try:
@@ -196,7 +196,7 @@ class apvroval:
                 clear()
                 print(f'{W}THIS TOOL IS PAID.SO,YOU NEED PERMISSION TO USE THIS TOOL')
                 print(f'{W}YOUR KEY :  '+MY_KEY)
-                os.system('xdg-open https://wa.me/+8801795194671 ')
+                os.system('xdg-open https://wa.me/+9779827170822 ')
                 print('SEND YOUR KEY TO GET APPROVAL');linex()
         except Exception as e:
             print(e)
